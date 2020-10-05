@@ -1,0 +1,62 @@
+.html, .body, .container{    
+    width: 100vw;
+    height: 100vh;
+}
+.row-1 {
+    height: 10vh;
+}
+.row-2 {
+    height: 40vh;
+}
+.row-3 {
+    height: 50vh;
+}
+.cell-1, .cell-2, .cell-3, .cell-4, .cell-5, .cell-6, .cell-7, .cell-8, .cell-9 {
+    float: left;
+    position: relative;
+}
+.cell-1 {
+    width: 80%;
+    height: 100%;
+    background-color: #2ECC71;
+}
+.cell-2 {
+    width: 20%;
+    height: 100%;
+    background-color: #2980B9;
+}
+.cell-3 {
+    width: 33.3333%;
+    height: 100%;
+    background-color: #E74C3C;
+}
+.cell-4 {
+    width: 33.3333%;
+    height: 50%;
+    background-color: #E67E22;
+}
+.cell-5 {
+    width: 33.3333%;
+    height: 50%;
+    background-color: #95A5A6;
+}
+.cell-6 {
+    width: 22.2222%;
+    height: 50%;
+    background-color: #F39C12;
+}
+.cell-7 {
+    width: 22.2222%;
+    height: 50%;
+    background-color: #16A085;
+}
+.cell-8 {
+    width: 22.2222%;
+    height: 50%;
+    background-color: #D35400;
+}
+.cell-9 {
+    width: 100%;
+    height: 80%;
+    background-color: #2C3E50;
+}
