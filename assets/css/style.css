@@ -26,17 +26,17 @@
     background-color: #2980B9;
 }
 .cell-3 {
-    width: 33.3333%;
+    width: calc(100%/3);
     height: 100%;
     background-color: #E74C3C;
 }
 .cell-4 {
-    width: 33.3333%;
+    width: calc(100%/3);
     height: 50%;
     background-color: #E67E22;
 }
 .cell-5 {
-    width: 33.3333%;
+    width: calc(100%/3);
     height: 50%;
     background-color: #95A5A6;
 }
